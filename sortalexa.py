@@ -27,7 +27,6 @@ if __name__ == '__main__':
 		oldTop1kList += [tuple(row)]
 	oldTop1kSortedTable = sort_table(tuple(oldTop1kList), (1, 0))
 	
-
 # a   a
 #
 # c   a - a and b should be ignored
