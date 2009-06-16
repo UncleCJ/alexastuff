@@ -39,6 +39,9 @@ if __name__ == '__main__':
 # a   b
 #
 
+# Downloadm Alexa top million:
+# http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+
 	# Now the lists are sorted according to domain name, let's merge them
 	# Should deal with that the lists may be of different length
 	oldRowIdx = 0
